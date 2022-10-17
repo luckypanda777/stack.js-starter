@@ -1,0 +1,59 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://docs.hiro.so/stacksjs-starters",
+      "permanent": false
+    },
+    {
+      "source": "/react(-vite)?",
+      "destination": "https://githubbox.com/hirosystems/stacks.js-starters/tree/main/templates/template-react-vite",
+      "permanent": false
+    },
+    {
+      "source": "/cra",
+      "destination": "https://githubbox.com/hirosystems/stacks.js-starters/tree/main/templates/template-react-cra",
+      "permanent": false
+    },
+    {
+      "source": "/react-cra",
+      "destination": "https://githubbox.com/hirosystems/stacks.js-starters/tree/main/templates/template-react-cra",
+      "permanent": false
+    },
+    {
+      "source": "/angular",
+      "destination": "https://githubbox.com/hirosystems/stacks.js-starters/tree/main/templates/template-angular",
+      "permanent": false
+    },
+    {
+      "source": "/next(js)?",
+      "destination": "https://githubbox.com/hirosystems/stacks.js-starters/tree/main/templates/template-react-nextjs",
+      "permanent": false
+    },
+    {
+      "source": "/react-next(js)?",
+      "destination": "https://githubbox.com/hirosystems/stacks.js-starters/tree/main/templates/template-react-nextjs",
+      "permanent": false
+    },
+    {
+      "source": "/svelte",
+      "destination": "https://githubbox.com/hirosystems/stacks.js-starters/tree/main/templates/template-svelte",
+      "permanent": false
+    },
+    {
+      "source": "/sveltekit",
+      "destination": "https://githubbox.com/hirosystems/stacks.js-starters/tree/main/templates/template-sveltekit",
+      "permanent": false
+    },
+    {
+      "source": "/vue",
+      "destination": "https://githubbox.com/hirosystems/stacks.js-starters/tree/main/templates/template-vue",
+      "permanent": false
+    },
+    {
+      "source": "/(.*)",
+      "destination": "https://github.com/hirosystems/stacks.js-starters",
+      "permanent": false
+    }
+  ]
+}

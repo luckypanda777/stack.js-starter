@@ -1,0 +1,20 @@
+{
+  "name": "template-vue",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 5050"
+  },
+  "dependencies": {
+    "@stacks/connect": "^7.0.0",
+    "@stacks/network": "^5.0.0",
+    "@stacks/transactions": "^5.0.1",
+    "vue": "^3.2.33"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "regenerator-runtime": "^0.13.9",
+    "vite": "^3.0.9"
+  }
+}
